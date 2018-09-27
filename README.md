@@ -1,3 +1,3 @@
 Batzolboo Batsaikhan
 
-CSCI3308 - lab5
+CSCI-3308 - lab5
